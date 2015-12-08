@@ -1,0 +1,16 @@
+{
+    "name": "mahfuz/slim",
+    "description": "demo slim vue js app",
+    "type": "REST",
+    "license": "MIT",
+    "require": {
+        "slim/slim": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "mahfuz05",
+            "email": "mahfuzcse05@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
